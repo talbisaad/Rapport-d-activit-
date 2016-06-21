@@ -1,0 +1,18 @@
+\begin{thebibliography}{GMS94}
+
+\bibitem[Dup07]{citation1}
+Bernard Dupont.
+\newblock {L'art simplifié de faire un rapport de stage}.
+\newblock {\em Jeunesse talentueuse}, 2007.
+
+\bibitem[GMS94]{Goossens1994}
+Michel Goosens, Franck Mittelbach, and Alexander Samarin.
+\newblock {\em {The \LaTeX Companion}}.
+\newblock Addison-Wesley, 1994.
+
+\bibitem[Mar09]{citation2}
+Claire Martin.
+\newblock {Faites attention à ne pas suivre les propos de Bernard Dupont à la
+  lettre}, 2009.
+
+\end{thebibliography}
